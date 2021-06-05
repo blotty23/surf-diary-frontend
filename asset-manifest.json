@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/surf-diary-frontend/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/surf-diary-frontend/static/js/main.82fec8d1.chunk.js",
-    "main.js.map": "/surf-diary-frontend/static/js/main.82fec8d1.chunk.js.map",
-    "runtime-main.js": "/surf-diary-frontend/static/js/runtime-main.2e9fe518.js",
-    "runtime-main.js.map": "/surf-diary-frontend/static/js/runtime-main.2e9fe518.js.map",
-    "static/js/2.4424ca0a.chunk.js": "/surf-diary-frontend/static/js/2.4424ca0a.chunk.js",
-    "static/js/2.4424ca0a.chunk.js.map": "/surf-diary-frontend/static/js/2.4424ca0a.chunk.js.map",
-    "static/js/3.088ee499.chunk.js": "/surf-diary-frontend/static/js/3.088ee499.chunk.js",
-    "static/js/3.088ee499.chunk.js.map": "/surf-diary-frontend/static/js/3.088ee499.chunk.js.map",
+    "main.js": "/surf-diary-frontend/static/js/main.21af9b50.chunk.js",
+    "main.js.map": "/surf-diary-frontend/static/js/main.21af9b50.chunk.js.map",
+    "runtime-main.js": "/surf-diary-frontend/static/js/runtime-main.c0c9b956.js",
+    "runtime-main.js.map": "/surf-diary-frontend/static/js/runtime-main.c0c9b956.js.map",
+    "static/js/2.003f134a.chunk.js": "/surf-diary-frontend/static/js/2.003f134a.chunk.js",
+    "static/js/2.003f134a.chunk.js.map": "/surf-diary-frontend/static/js/2.003f134a.chunk.js.map",
+    "static/js/3.5515594c.chunk.js": "/surf-diary-frontend/static/js/3.5515594c.chunk.js",
+    "static/js/3.5515594c.chunk.js.map": "/surf-diary-frontend/static/js/3.5515594c.chunk.js.map",
     "index.html": "/surf-diary-frontend/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/surf-diary-frontend/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4424ca0a.chunk.js.LICENSE.txt": "/surf-diary-frontend/static/js/2.4424ca0a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/surf-diary-frontend/static/media/logo.6ce24c58.svg"
+    "static/js/2.003f134a.chunk.js.LICENSE.txt": "/surf-diary-frontend/static/js/2.003f134a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e9fe518.js",
-    "static/js/2.4424ca0a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.82fec8d1.chunk.js"
+    "static/js/runtime-main.c0c9b956.js",
+    "static/js/2.003f134a.chunk.js",
+    "static/js/main.21af9b50.chunk.js"
   ]
 }
